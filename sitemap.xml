@@ -1,74 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://blog.microsugar.net/tags/index.html</loc>
-    
-    <lastmod>2019-11-26T07:12:18.635Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/posts/dcf77fbd/</loc>
-    
-    <lastmod>2019-11-26T07:12:18.541Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/posts/c01d2700/</loc>
-    
-    <lastmod>2019-11-26T07:12:18.541Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/google556d39f1112c95ff.html</loc>
-    
-    <lastmod>2019-11-26T07:12:18.541Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/categories/index.html</loc>
-    
-    <lastmod>2019-11-26T07:12:18.541Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/posts/5ba411a/</loc>
-    
-    <lastmod>2019-11-26T07:12:18.525Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/posts/80663e5c/</loc>
-    
-    <lastmod>2018-11-21T04:19:03.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/posts/53931/</loc>
-    
-    <lastmod>2018-09-10T03:24:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/posts/af93369f/</loc>
-    
-    <lastmod>2018-09-09T16:08:03.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.microsugar.net/posts/a151710f/</loc>
-    
-    <lastmod>2018-09-05T02:37:23.000Z</lastmod>
-    
-  </url>
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://blog.microsugar.net/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/post/5ba411a</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/post/80663e5c</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/post/c01d2700</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/post/a53931</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/post/a151710f</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/post/af93369f</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/about-microsugar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/guestbook</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Vuepress</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Bootstrap</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Vue.js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/bootstrap-vue</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Machine learning</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Microsoft Azure</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Auto train models</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Bitbucket</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/ssh</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/VSTS</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/CI/CD</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Android</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Cordova</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tag/Blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.microsugar.net/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
